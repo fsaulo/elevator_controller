@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 ///////////////////////////////////////////////////////////////////////////////
-// Company:        Universidade Federal de Sergipe
-// Engineer:
+// Institution:    Universidade Federal de Sergipe
+// Engineer:       Saulo G. Felix
 //
 // Create Date:    10:22:52 09/26/2019
 // Design Name:    Saulo G. Felix
