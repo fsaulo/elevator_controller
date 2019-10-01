@@ -11,7 +11,7 @@
 // Tool versions:  ISE 14.7
 // Description:    The control system module
 ///////////////////////////////////////////////////////////////////////////////
-module control_input_module(
+module control_input_unit(
     output reg [3:0] memory_address_buffer,
     output reg [3:0] ctrl_load,
     input      [3:0] ctrl_seq,
