@@ -1,5 +1,5 @@
 # Elevator Controller
-This is an elevator control module written in Verilog for the board Spartan3E
+This is an elevator control module written in Verilog for the Spartan3E board
 
 # Credits
 
